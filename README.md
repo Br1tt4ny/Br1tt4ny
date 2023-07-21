@@ -1,3 +1,10 @@
+### About Me
+- Iam currently studying to become an I.T
+- Hoping to become the best I.T out there
+- Eventually want to become a developer
+
+
+
 ### Hi there 👋
 ### My name is Brittany but people call me Britt 😍
 ### Iam a wife and momma to 3 beautiful children 💛💜💙
