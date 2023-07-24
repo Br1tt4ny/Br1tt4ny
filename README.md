@@ -1,13 +1,16 @@
-<div id="header" align="center">
+<h2>Hi, I'm Brittany! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div id="header" align="left">
+<p><em>Student at <a href="https://www.phoenix.edu/">University of Phoenix</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+
  <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">	
 </div>
 
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi 
+<h3 align="center">Welcome
 
 
 
- 
 
 
 
@@ -18,22 +21,22 @@
  <!-- About section -->
 
 ---
-### About Me
-✨Iam currently in school for my Bachelors in Information Technology at the University Of Phoenix. I have some knowledge thanks to my husband who is an I.T engineer himself.
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About Me
+✨Iam currently studying for my Bachelors in Information Technology. 
 
 I would love to succeed in this field so I am able to share my knowledge with others. My dream is to become a backend developer
-in a field that doesnt have many females. I would love to get to a point where I am able to create content and share what I know
+in a field that doesnt have many females. My mission is to get to a point where I am able to create content and share what I know
 to help others. I want my journey and learning experience to be an example for those that are trying to fufill their dreams, I want
 them to know anything and everything is possible.
 
 
 
 
-- 💻 My area of study is Information Technology 
+- 💻 Information Technology 
 
-- 🤓 I’m looking to gain knowledge anywhere possible when it comes to I.T
+- 🤓 I’m looking to gain knowledge in my field of study
 
-- 🤔 I’m also interested in learning coding and developing
+- 🤔 I'm interested in learning coding and developing
 
 - 💬 Things that intrigue me: Documentaries and Consipracies
 
