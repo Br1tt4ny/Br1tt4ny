@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">	
+</div>
 
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi 
