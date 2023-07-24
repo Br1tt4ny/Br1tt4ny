@@ -3,7 +3,7 @@
 <p><em>Student at <a href="https://www.phoenix.edu/">University of Phoenix</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
- <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">	
+<div id="header" align="center"> <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">	
 </div>
 
 <!-- Heading -->
