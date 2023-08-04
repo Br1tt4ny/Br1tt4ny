@@ -22,7 +22,7 @@
 
 ---
 ###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About Me
-✨Iam currently studying for my Bachelors in Information Technology. 
+✨Iam currently studying Information Technology. 
 
 I would love to succeed in this field so I am able to share my knowledge with others. My dream is to become a backend developer
 in a field that doesnt have many females. My mission is to get to a point where I am able to create content and share what I know
